@@ -1,0 +1,121 @@
+Welcome to the library! See below for our catalog and availability.
+
+---------
+artist: Yonder Mountain String Band
+nTracks: 13
+title: Love. Ain't Love
+present: true
+playing time: 53
+copyright year: 2017
+---------
+artist: Yonder Mountain String Band
+nTracks: 24
+title: Mountain Tracks, Vol. 5
+present: true
+playing time: 117
+copyright year: 2008
+---------
+rating: PG-13
+bonus feature time: 15
+title: Pirates of the Antarctic
+present: true
+playingTime: 134
+copyright year: 2003
+---------
+rating: PG-13
+bonus feature time: 0
+title: Pirates of the Caribbean: The Curse of the Black Pearl
+present: true
+playingTime: 143
+copyright year: 2003
+---------
+author: Jeff Kinney
+narrator: Ramon De Ocampo
+title: Diary of a Wimpy Kid
+present: true
+playing time: 117
+copyright year: 2007
+---------
+author: Jeff Kinney
+narrator: Ramon De Ocampo
+title: Diary of a Wimpy Kid: The Last Straw
+present: true
+playing time: 135
+copyright year: 2009
+---------
+
+
+Checked out "Love. Ain't Love." Did you know know the copyright year is 2017?
+Checked out "Mountain Tracks, Vol. 5." Did you know know the copyright year is 2008?
+Checked out "Pirates of the Antarctic." Did you know know the copyright year is 2003?
+Checked out "Pirates of the Caribbean: The Curse of the Black Pearl." Did you know know the copyright year is 2003?
+Checked out "Diary of a Wimpy Kid." Did you know know the copyright year is 2007?
+Checked out "Diary of a Wimpy Kid: The Last Straw." Did you know know the copyright year is 2009?
+
+MEDIA ITEMS STATUS UPDATE
+Love. Ain't Love
+Available: false
+---------
+Mountain Tracks, Vol. 5
+Available: false
+---------
+Pirates of the Antarctic
+Available: false
+---------
+Pirates of the Caribbean: The Curse of the Black Pearl
+Available: false
+---------
+Diary of a Wimpy Kid
+Available: false
+---------
+Diary of a Wimpy Kid: The Last Straw
+Available: false
+---------
+
+
+Returning "Love. Ain't Love" to the library. It took me 53 minutes to finish!
+Returning "Mountain Tracks, Vol. 5" to the library. It took me 117 minutes to finish!
+Returning "Pirates of the Antarctic" to the library. It took me 149 minutes to finish!
+Returning "Pirates of the Caribbean: The Curse of the Black Pearl" to the library. It took me 143 minutes to finish!
+Returning "Diary of a Wimpy Kid" to the library. It took me 117 minutes to finish!
+Returning "Diary of a Wimpy Kid: The Last Straw" to the library. It took me 135 minutes to finish!
+
+MEDIA ITEMS STATUS UPDATE
+Love. Ain't Love
+Available: true
+---------
+Mountain Tracks, Vol. 5
+Available: true
+---------
+Pirates of the Antarctic
+Available: true
+---------
+Pirates of the Caribbean: The Curse of the Black Pearl
+Available: true
+---------
+Diary of a Wimpy Kid
+Available: true
+---------
+Diary of a Wimpy Kid: The Last Straw
+Available: true
+---------
+
+
+Now that everything has been returned, let's sort the library!
+Original order:
+Love. Ain't Love
+Mountain Tracks, Vol. 5
+Pirates of the Antarctic
+Pirates of the Caribbean: The Curse of the Black Pearl
+Diary of a Wimpy Kid
+Diary of a Wimpy Kid: The Last Straw
+
+Sorting complete
+
+LIBRARY ORDER UPDATE
+Diary of a Wimpy Kid
+Diary of a Wimpy Kid: The Last Straw
+Love. Ain't Love
+Mountain Tracks, Vol. 5
+Pirates of the Antarctic
+Pirates of the Caribbean: The Curse of the Black Pearl

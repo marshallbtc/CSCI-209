@@ -1,0 +1,7 @@
++=Plus
+^=Exponentiation
+-=Minus
+*=Multiplication
+/=Division
+%=Modulus
+\!=Negate
